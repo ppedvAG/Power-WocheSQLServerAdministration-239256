@@ -1,5 +1,9 @@
+sp_change_users_login 'Auto_fix' , 'JamesBond', NULL,'ppedv2023!' 
+sp_change_users_login 'Report'
+sp_change_users_login 'Update_one', 'JamesBond', 'JamesBond'
 
 
+sp_help_revlogin
 --PROZEDUR
 
 USE [master]

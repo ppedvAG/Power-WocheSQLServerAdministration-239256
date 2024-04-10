@@ -118,6 +118,24 @@
           <AssociatedConnUserName />
           <FullPath>14_Proxykonto.sql</FullPath>
         </FileNode>
+        <FileNode Name="16_Anwendungsrolle.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16_Anwendungsrolle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Audit.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Audit.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ola Hallengren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ola Hallengren.sql</FullPath>
+        </FileNode>
         <FileNode Name="Recap_tag1.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -145,7 +163,14 @@
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="SQLPOL.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLPOL.zip</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
