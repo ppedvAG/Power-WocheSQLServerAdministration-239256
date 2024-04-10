@@ -124,11 +124,17 @@
           <AssociatedConnUserName />
           <FullPath>16_Anwendungsrolle.sql</FullPath>
         </FileNode>
-        <FileNode Name="Audit.sql">
+        <FileNode Name="16_Monitoring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16_Monitoring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_Audit.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>Audit.sql</FullPath>
+          <FullPath>20_Audit.sql</FullPath>
         </FileNode>
         <FileNode Name="Ola Hallengren.sql">
           <AssociatedConnectionMoniker />
@@ -159,6 +165,18 @@
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_sp_help_revlogin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_SQL Server 2022 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_SQL Server 2022 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Wartung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Wartung.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
